@@ -8,7 +8,7 @@
 
 ![name](https://img.shields.io/badge/Kaushal--Mehta-MCA--last--year-lightgrey)
 
-## Project 8 [Live Link](#)
+## Project 8 [Live Link](https://live-proj-8.netlify.app)
 
 -   Skills Gained in this project
     -   Learned how we can center any svgs, images as background by using **background-position** & **background-repeat**.
